@@ -1,0 +1,7 @@
+name: 'Wheather Data'
+type: module
+description: 'Wheather information.'
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: custom
+
